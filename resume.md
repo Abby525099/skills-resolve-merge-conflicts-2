@@ -16,9 +16,9 @@ Provide world class support to customers on the GitHub platform
 
 ### Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+Developed and maintained various conference talks, online training, and in-person trainings me covering various topics including Git, GitHub, and Open Source.
 
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
-- Built internal tools
+- Contributed to open source projects
